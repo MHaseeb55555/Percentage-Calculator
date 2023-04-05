@@ -32,7 +32,7 @@ if (a == b) {
 // <<<<<<<<<<<<< nested else if >>>>>>>>>>>>>>>>>>>>>>>
 
 
-var age = prompt("ENTTER YOUR AGE")
+var age = prompt("ENTTER YOUR AGE",18)
 
 if (age >= 18) {
     if ( age >= 25) {
